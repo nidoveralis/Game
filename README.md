@@ -1,3 +1,4 @@
 # Game
-Open for play https://nidoveralis.github.io/Game/index.html
-Train your memory. Click on the cards and match her.
+
+Это игра для тренировки памяти, нужно найти одинаковые карточки.
+Откройте, чтобы поиграть https://nidoveralis.github.io/Game/index.html
