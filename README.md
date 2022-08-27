@@ -2,6 +2,9 @@
 
 Это игра для тренировки памяти, нужно найти пару одинаковых карточек.
 
-Можно поиграть по ссылке https://nidoveralis.github.io/Game/index.html
+## Stack
+- HTML
+- CSS
+- JQuery
 
-Этот игра один из моих первых работ, написанная на jquery. Планирую её переписать.
+Можно поиграть по ссылке https://nidoveralis.github.io/Game/index.html
